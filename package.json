@@ -1,0 +1,22 @@
+{
+  "name": "square",
+  "version": "0.0.1",
+  "description": "\"find the areas of a square, given the side of square\"",
+  "main": "square.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indhu1105/square.git"
+  },
+  "author": "Indhu",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/indhu1105/square/issues"
+  },
+  "homepage": "https://github.com/indhu1105/square#readme",
+  "dependencies": {
+    "indhu-test": "github:indhu1105/Indhu-test-library"
+  }
+}
